@@ -102,7 +102,7 @@ My final model consisted of the following layers:
 | RELU					|												|
 | Convolution 3x3     	| 1x1 stride, valid padding, outputs 26x26x16 	|
 | RELU					|												|
-| Max pooling	      	| 2x2 stride,  outputs 13x13x6 				|
+| Max pooling	      	| 2x2 stride,  outputs 13x13x16 				|
 | Convolution 5x5     	| 1x1 stride, valid padding, outputs 9x9x16 	|
 | RELU					|												|
 | Convolution 1x1     	| 1x1 stride, valid padding, outputs 9x9x8 	|
